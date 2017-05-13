@@ -11,9 +11,9 @@ title                    : "JD's Blog"
 title_separator          : "-"
 name                     : "JD"
 description              : "My Blog."
-url                      : # the base hostname & protocol for your site e.g. "https://W-JD.github.io"
-baseurl                  : # the subpath of your site, e.g. "/minimal-mistakes"
-repository               : # GitHub username/repo-name e.g. "W-JD/minimal-mistakes"
+url                      : https://W-JD.github.io# the base hostname & protocol for your site e.g. "https://W-JD.github.io"
+baseurl                  : /minimal-mistakes# the subpath of your site, e.g. "/minimal-mistakes"
+repository               : W-JD/minimal-mistakes# GitHub username/repo-name e.g. "W-JD/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 210
