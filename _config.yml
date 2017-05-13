@@ -11,16 +11,16 @@ title                    : "JD's Blog"
 title_separator          : "-"
 name                     : "JD"
 description              : "My Blog."
-url                      : https://W-JD.github.io# the base hostname & protocol for your site e.g. "https://W-JD.github.io"
-baseurl                  : /minimal-mistakes# the subpath of your site, e.g. "/minimal-mistakes"
-repository               : W-JD/minimal-mistakes# GitHub username/repo-name e.g. "W-JD/minimal-mistakes"
+url                      : https://W-JD.github.io
+baseurl                  : /minimal-mistakes
+repository               : W-JD/minimal-mistakes
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 210
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : W-JD# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : W-JD # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JianDong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "JD"
+  location         : "Fujian, China"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://youtube.com/c/"
 
 
 # Reading Files
