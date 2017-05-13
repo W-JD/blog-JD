@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hello,World"
 date: 2017-05-11 12:34:56
 category: hello
