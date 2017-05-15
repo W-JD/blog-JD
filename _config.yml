@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "JD"
 description              : "My Blog."
 url                      : https://W-JD.github.io
-baseurl                  : blog-JD
+baseurl                  : /blog-JD
 repository               : W-JD/blog-JD
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
